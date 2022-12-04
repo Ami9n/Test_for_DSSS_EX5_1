@@ -6,5 +6,5 @@ setup(name='let_it_snow',
       author='Amin in DSSS',
       author_email='amin.olamazadeh@fau.de',
       packages=find_packages(),
-      install_requires = ['mumpy','turtles']
+      install_requires = ['numpy','turtles']
      )
